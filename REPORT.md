@@ -105,6 +105,10 @@ MongoDB container, all three records remained available in the named volume.
 
 The source code is available at: **[GitHub repository](https://github.com/lumia-Qcode/MLOPS_TASK_03)**
 
+![Successful Git push output](screenshots/24-git-push.png)
+
+![GitHub repository contents](screenshots/25-repository.png)
+
 ## Conclusion
 
 The project demonstrates a complete Airflow ETL workflow using the Frankfurter API,
