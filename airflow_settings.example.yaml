@@ -1,0 +1,10 @@
+airflow:
+  connections:
+    - conn_id: currency_mongodb
+      conn_type: mongo
+      conn_host: mongodb
+      conn_login: admin
+      conn_password: replace_with_mongo_root_password
+      conn_port: 27017
+      conn_extra:
+        authSource: admin
